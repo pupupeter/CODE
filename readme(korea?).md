@@ -69,12 +69,13 @@
 ```bash
 python -m venv example-venv 
 example-venv\Scripts\Activate.ps1
+```
 
 ### 6.2 필수 패키지 설치
 
 ```bash
 pip install pygame
-
+```
 ### 6.3 VS Code에서 게임 실행
 -VS Code에서 프로젝트 폴더 열기
 
@@ -92,3 +93,4 @@ pip install pygame
 
 ```bash
 python game.py
+```
