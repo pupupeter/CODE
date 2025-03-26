@@ -7,6 +7,10 @@
 ---------------------------------------------
 # Plant vs. Zombies Shooting Game
 
+
+[korean](https://github.com/pupupeter/CODE/blob/main/readme(korea%3F).md)
+
+
 ## 1. Introduction
 This is a simple 2D game developed using Pygame. The player controls a plant that can shoot bullets to fend off approaching zombies. The game includes background images, character sprites, collision detection, and a scoring system.
 
