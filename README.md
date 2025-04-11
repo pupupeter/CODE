@@ -6,7 +6,7 @@
 [HW2](https://github.com/pupupeter/CODE/blob/main/little_pca%20(1).ipynb)
 [HW3](https://github.com/pupupeter/CODE/blob/main/%E4%BD%9C%E6%A5%AD3.ipynb)
 [HW4](https://github.com/pupupeter/CODE/blob/main/%E4%BD%9C%E6%A5%AD3.ipynb)
-
+附註:HW4的資料並非使用老師YOUTUBE上的CSV(YOUTUBE上為去年)，而是來自於這學期老師開的課相見歡的CSV
 
 
 
