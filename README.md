@@ -4,9 +4,12 @@
 [HW1](https://github.com/pupupeter/CODE/blob/main/%E6%88%91%E6%98%AF12345%E5%B0%8F%E6%9C%8B%E5%8F%8B.ipynb)
 [HW1-2](https://github.com/pupupeter/CODE/blob/main/week3practice.ipynb)
 [HW2](https://github.com/pupupeter/CODE/blob/main/little_pca%20(1).ipynb)
+
 [HW3](https://github.com/pupupeter/CODE/blob/main/%E4%BD%9C%E6%A5%AD3.ipynb)
+
 [HW4](https://github.com/pupupeter/CODE/blob/main/%E4%BD%9C%E6%A5%AD4.ipynb)
-附註:HW4的資料並非使用老師YOUTUBE上的CSV(YOUTUBE上為去年)，而是來自於這學期老師開的課相見歡的CSV
+
+附註:HW4的資料並非使用老師YOUTUBE上的CSV(YOUTUBE上為去年)，而是來自於這學期老師開的隨堂練習報到區的CSV
 
 
 
