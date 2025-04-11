@@ -5,6 +5,8 @@
 [HW1-2](https://github.com/pupupeter/CODE/blob/main/week3practice.ipynb)
 [HW2](https://github.com/pupupeter/CODE/blob/main/little_pca%20(1).ipynb)
 [HW3](https://github.com/pupupeter/CODE/blob/main/%E4%BD%9C%E6%A5%AD3.ipynb)
+[HW4](https://github.com/pupupeter/CODE/blob/main/%E4%BD%9C%E6%A5%AD3.ipynb)
+
 
 
 
